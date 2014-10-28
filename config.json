@@ -1,5 +1,6 @@
 {
   "icon": "icon.png",
+  "splash_background": "#0A1244",
   "appName": "Hello World",
   "appDescription": "A starter kit for PhoneGap build",
   "packageName": "com.foo.helloworld",
