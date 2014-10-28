@@ -1,5 +1,5 @@
 {
-  "icon": "tux.svg",
+  "icon": "icon.png",
   "appName": "Hello World",
   "appDescription": "A starter kit for PhoneGap build",
   "packageName": "com.foo.helloworld",
